@@ -1,0 +1,11 @@
+.list-contact {
+  background-color: blue;
+  margin-bottom: 4rem;
+  &-name{
+    font-size: 3rem;
+  }
+  &-dropdown{
+    background-color: white;
+    border: 1px solid green;  
+  }
+}
